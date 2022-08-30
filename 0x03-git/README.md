@@ -6,3 +6,4 @@ Untracked files:
 	./
 
 nothing added to commit but untracked files present (use "git add" to track)
+up_to_date
